@@ -27,8 +27,9 @@ if uploaded_file is not None:
 
         with col1:
             st.subheader("Processed Mask (Binary Image)")
-            st.image(processed_img, clamp=True)
+            st.image(processed_img, width=300)
 
         with col2:
             st.subheader("Detected Objects (Bounding Boxes)")
-            st.image(cv2.cvtColor(output_img, cv2.COLOR_BGR2RGB), channels="RGB")
+            st.image(cv2.cvtColor(output_img, cv2.COLOR_BGR2RGB), channels="RGB", width=300)
+

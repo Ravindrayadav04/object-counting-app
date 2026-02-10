@@ -66,6 +66,8 @@ Example Output shown in the app:
 
 <img width="1920" height="1080" alt="output2" src="https://github.com/user-attachments/assets/d7d9d311-8a1e-416b-ac89-17876ca9fb50" />
 
+
+
 Total distinct object count: 10
 
 ````
