@@ -64,11 +64,15 @@ The object detection & counting is done using the following steps:
 ### 📊 Sample Output
 Example Output shown in the app:
 
-<img width="1920" height="1080" alt="output2" src="https://github.com/user-attachments/assets/d7d9d311-8a1e-416b-ac89-17876ca9fb50" />
+<img src="screenshots/output.png" width="300">
+<img src="screenshots/output1.png" width="300">
+<img src="screenshots/output2.png" width="300">
+<img src="screenshots/output3.png" width="300">
+<img src="screenshots/output4.png" width="300">
+<img src="screenshots/output5.png" width="300">
+<img src="screenshots/output6.png" width="300">
 
 
-
-Total distinct object count: 10
 
 ````
 
